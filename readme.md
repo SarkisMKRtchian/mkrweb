@@ -40,7 +40,7 @@ Time: 23.11.2023 22:22:49
 Select data from database (Synchronous / Asynchronous)
 
 ```js
-const data: iSelectTinfo = {
+const data = {
     columns: '*',
     identifier: "name = 'Alex'",
     order: {
