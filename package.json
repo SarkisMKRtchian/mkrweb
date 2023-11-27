@@ -1,6 +1,6 @@
 {
   "name": "mkrweb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Small package for server-side development.",
   "main": "index.js",
   "scripts": {
