@@ -16,12 +16,16 @@
     "typescript": "^5.3.2"
   },
   "devDependencies": {},
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SarkisMKRtchian/mkrweb.git"
   },
   "bugs": {
     "url": "https://github.com/SarkisMKRtchian/mkrweb/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "homepage": "https://github.com/SarkisMKRtchian/mkrweb#readme"
 }
