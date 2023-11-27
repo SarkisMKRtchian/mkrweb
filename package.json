@@ -1,5 +1,5 @@
 {
-  "name": "@mkrtchian/mkrweb",
+  "name": "mkrweb",
   "version": "1.0.1",
   "description": "Small package for server-side development.",
   "main": "index.js",
